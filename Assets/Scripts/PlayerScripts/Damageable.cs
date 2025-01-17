@@ -16,6 +16,8 @@ public class Damageable : MonoBehaviour
         if (health <= 0)
         {
             Debug.Log("Dead");
+            Application.Quit();
+            UnityEditor.EditorApplication.isPlaying = false;
         }
     }
    

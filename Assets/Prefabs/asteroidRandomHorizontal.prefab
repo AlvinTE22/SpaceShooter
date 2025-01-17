@@ -13,8 +13,11 @@ GameObject:
   - component: {fileID: 6566303842063955383}
   - component: {fileID: 9188106896016283712}
   - component: {fileID: 1005279332965047536}
+  - component: {fileID: -6326072296806482486}
+  - component: {fileID: 24373729819908330}
+  - component: {fileID: 3573605287964918903}
   m_Layer: 7
-  m_Name: asteroid
+  m_Name: asteroidRandomHorizontal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -161,6 +164,43 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 011af35d0f4f71e48a7ed1bb85e9dd17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &-6326072296806482486
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5254368307718169878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0c5e2e908515db4c8f291cd3cfb0c98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
   speed: 3
-  fireDelay: 3
+--- !u!114 &24373729819908330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5254368307718169878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf921da2a2de4514e90ec91770bc3ebb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fireRate: 2
   enemyProjectilePrefab: {fileID: 1412013894881034481, guid: ca7c3d7f7685b7446ade29bae7bcf8d6, type: 3}
+--- !u!114 &3573605287964918903
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5254368307718169878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb44c802594c0df468297b7de10191f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 3
