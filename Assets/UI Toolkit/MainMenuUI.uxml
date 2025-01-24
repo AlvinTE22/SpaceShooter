@@ -2,6 +2,6 @@
     <Style src="project://database/Assets/UI%20Toolkit/mainMenuUI.uss?fileID=7433441132597879392&amp;guid=4cdb380d5cc8efa408671ea766c6089d&amp;type=3#mainMenuUI" />
     <ui:VisualElement name="mainMenu" class="main-menu">
         <ui:Button text="Start" parse-escape-sequences="true" display-tooltip-when-elided="true" name="start-button" class="main-menu__button main-menu__button--start" />
-        <ui:Button text="Quit" parse-escape-sequences="true" display-tooltip-when-elided="true" name="quit" class="main-menu__button" />
+        <ui:Button text="Quit" parse-escape-sequences="true" display-tooltip-when-elided="true" name="quit-button" class="main-menu__button" />
     </ui:VisualElement>
 </ui:UXML>
