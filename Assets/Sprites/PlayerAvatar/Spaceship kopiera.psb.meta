@@ -1,0 +1,1667 @@
+fileFormatVersion: 2
+guid: 0ee27c59a6559fd459120138badcdc1e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: Bildruta 24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 62
+      height: 60
+    spriteID: 61a08b26c3591db4ca51b2cd9a0b12e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 4
+      width: 62
+      height: 60
+    spriteID: d40d81292b727e24d919334214aafa6e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 4}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 4
+      width: 62
+      height: 60
+    spriteID: 8851a941f084d044d90f96825eb93fa8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 4}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 4
+      width: 62
+      height: 60
+    spriteID: c4f7b87d423093b4b941fa6a27d51c37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 4}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 284
+      y: 4
+      width: 62
+      height: 60
+    spriteID: 80c58fb9ad8cfcf48895eb412121671d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 284, y: 4}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 354
+      y: 4
+      width: 62
+      height: 60
+    spriteID: 7c4055b5c6158084a83f787b5e27c5a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 354, y: 4}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 424
+      y: 4
+      width: 62
+      height: 60
+    spriteID: b3babd15603fe264b826cb579dd63a41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 424, y: 4}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 72
+      width: 62
+      height: 60
+    spriteID: 9ab2da29a131bee428693a30969f5691
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 72}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 72
+      width: 62
+      height: 60
+    spriteID: ee4cb2134b9ae664c8c159ff36ab9170
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 72}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 72
+      width: 62
+      height: 60
+    spriteID: ba16fd01801820546819bae6cab62315
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 72}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 72
+      width: 62
+      height: 60
+    spriteID: 41e132d24caf9ce42a28b31d462c6abb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 72}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 284
+      y: 72
+      width: 62
+      height: 60
+    spriteID: 2af886e0c4787964dbac7fa21a0f3288
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 284, y: 72}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 354
+      y: 72
+      width: 62
+      height: 60
+    spriteID: de00a98490bd4f04bb883e3a8894e97e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 354, y: 72}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 424
+      y: 72
+      width: 62
+      height: 60
+    spriteID: 2c9fc3f9005f5fc4581a49351174ddde
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 424, y: 72}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 140
+      width: 62
+      height: 60
+    spriteID: 6ab704ee61907e244a59852c553530dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 140}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 140
+      width: 62
+      height: 60
+    spriteID: b08ef4fdaa8b1f74ea5a81da1a587e77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 140}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 140
+      width: 62
+      height: 60
+    spriteID: 62d8d080db9b00742a499178042ef01c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 140}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 140
+      width: 62
+      height: 60
+    spriteID: 7195dfb71ff85e4419be861efe851786
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 140}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 284
+      y: 140
+      width: 62
+      height: 60
+    spriteID: 7338c706634da3b41916f64f13cc01e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 284, y: 140}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 354
+      y: 140
+      width: 62
+      height: 60
+    spriteID: 056944607c00aec47a3cb219616ee8a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 354, y: 140}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 424
+      y: 140
+      width: 62
+      height: 60
+    spriteID: 79bd9290f566fb0458643f0a54238642
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 424, y: 140}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 208
+      width: 62
+      height: 60
+    spriteID: ea8030fdfd29239439e421df89b6aeb5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 208}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 208
+      width: 62
+      height: 60
+    spriteID: fad75728146d0b5449a0e9dcf705980e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 208}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 208
+      width: 62
+      height: 60
+    spriteID: d38acbe5a3083ee428635d8995f078fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 208}
+    spritePosition: {x: 1, y: 0}
+  rigSpriteImportData:
+  - name: Bildruta 24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 62
+      height: 60
+    spriteID: 3185eb84c1d81104181d862921b5aa1c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 4
+      width: 62
+      height: 60
+    spriteID: 21138b5ef8fd9834890fc5ecbcef4c49
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 4}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 4
+      width: 62
+      height: 60
+    spriteID: 91f51fedd75f7e9458253a56e757c3d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 4}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 4
+      width: 62
+      height: 60
+    spriteID: 532ab7785ad33144b84783d0514437f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 4}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 284
+      y: 4
+      width: 62
+      height: 60
+    spriteID: fc08479755731924693bef611cfcb50f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 284, y: 4}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 354
+      y: 4
+      width: 62
+      height: 60
+    spriteID: d907ccb97dca8f64fa3bceff17a37791
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 354, y: 4}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 424
+      y: 4
+      width: 62
+      height: 60
+    spriteID: daf54ef8859144c49bd9461db9468c1c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 424, y: 4}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 72
+      width: 62
+      height: 60
+    spriteID: 78787d1fdcc33c84ca643ac05ed221f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 72}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 72
+      width: 62
+      height: 60
+    spriteID: 27e2229af7bc6314c978dd59fa8b79e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 72}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 72
+      width: 62
+      height: 60
+    spriteID: ed406c49a56e579458e75d758f7b348c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 72}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 72
+      width: 62
+      height: 60
+    spriteID: db89eed8f82c57343b65fefd936a3f65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 72}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 284
+      y: 72
+      width: 62
+      height: 60
+    spriteID: 8eeb64f52abec2f48a65216a3ceb1ca2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 284, y: 72}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 354
+      y: 72
+      width: 62
+      height: 60
+    spriteID: 96e776ad77413934dbf05ac8e1ecafd6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 354, y: 72}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 424
+      y: 72
+      width: 62
+      height: 60
+    spriteID: f1630c797bb066f49bea35b2290feec3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 424, y: 72}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 140
+      width: 62
+      height: 60
+    spriteID: 62f58b30492c6a64baa466b6bf0eabc4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 140}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 140
+      width: 62
+      height: 60
+    spriteID: 4539f12ad86939344881c4ac7b0548eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 140}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 140
+      width: 62
+      height: 60
+    spriteID: 598402a9c80aaa04b8578a84382539be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 140}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 140
+      width: 62
+      height: 60
+    spriteID: 76ee6cc982085534d925abb70742cec6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 140}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 284
+      y: 140
+      width: 62
+      height: 60
+    spriteID: e98553627483bf84fa4a2fab7e2b159c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 284, y: 140}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 354
+      y: 140
+      width: 62
+      height: 60
+    spriteID: 03d82f6b1addc0541a9cb994deb18b91
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 354, y: 140}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 424
+      y: 140
+      width: 62
+      height: 60
+    spriteID: e10a78e317c27b94a9e649784dbbcf67
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 424, y: 140}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 208
+      width: 62
+      height: 60
+    spriteID: e0646f64ec744ee4285fba1dbc094dd5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 208}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 208
+      width: 62
+      height: 60
+    spriteID: 724f43ec318e77c4c8f51c101724b7cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 208}
+    spritePosition: {x: 1, y: 0}
+  - name: Bildruta 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 208
+      width: 62
+      height: 60
+    spriteID: 9df43516a83f9954f80de1a7d47efe8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 208}
+    spritePosition: {x: 1, y: 0}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers:
+  - name: Bildruta 24
+    spriteName: Bildruta 24
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 61a08b26c3591db4ca51b2cd9a0b12e0
+    layerID: 109
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 23
+    spriteName: Bildruta 23
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d40d81292b727e24d919334214aafa6e
+    layerID: 108
+    mosaicPosition: {x: 74, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 22
+    spriteName: Bildruta 22
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8851a941f084d044d90f96825eb93fa8
+    layerID: 107
+    mosaicPosition: {x: 144, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 21
+    spriteName: Bildruta 21
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c4f7b87d423093b4b941fa6a27d51c37
+    layerID: 106
+    mosaicPosition: {x: 214, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 20
+    spriteName: Bildruta 20
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 80c58fb9ad8cfcf48895eb412121671d
+    layerID: 105
+    mosaicPosition: {x: 284, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 19
+    spriteName: Bildruta 19
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7c4055b5c6158084a83f787b5e27c5a1
+    layerID: 104
+    mosaicPosition: {x: 354, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 18
+    spriteName: Bildruta 18
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b3babd15603fe264b826cb579dd63a41
+    layerID: 103
+    mosaicPosition: {x: 424, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 17
+    spriteName: Bildruta 17
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9ab2da29a131bee428693a30969f5691
+    layerID: 102
+    mosaicPosition: {x: 4, y: 72}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 16
+    spriteName: Bildruta 16
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ee4cb2134b9ae664c8c159ff36ab9170
+    layerID: 101
+    mosaicPosition: {x: 74, y: 72}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 15
+    spriteName: Bildruta 15
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ba16fd01801820546819bae6cab62315
+    layerID: 100
+    mosaicPosition: {x: 144, y: 72}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 14
+    spriteName: Bildruta 14
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 41e132d24caf9ce42a28b31d462c6abb
+    layerID: 99
+    mosaicPosition: {x: 214, y: 72}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 13
+    spriteName: Bildruta 13
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2af886e0c4787964dbac7fa21a0f3288
+    layerID: 98
+    mosaicPosition: {x: 284, y: 72}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 12
+    spriteName: Bildruta 12
+    isGroup: 0
+    parentIndex: -1
+    spriteID: de00a98490bd4f04bb883e3a8894e97e
+    layerID: 97
+    mosaicPosition: {x: 354, y: 72}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 11
+    spriteName: Bildruta 11
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2c9fc3f9005f5fc4581a49351174ddde
+    layerID: 96
+    mosaicPosition: {x: 424, y: 72}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 10
+    spriteName: Bildruta 10
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6ab704ee61907e244a59852c553530dd
+    layerID: 95
+    mosaicPosition: {x: 4, y: 140}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 9
+    spriteName: Bildruta 9
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b08ef4fdaa8b1f74ea5a81da1a587e77
+    layerID: 94
+    mosaicPosition: {x: 74, y: 140}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 8
+    spriteName: Bildruta 8
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 62d8d080db9b00742a499178042ef01c
+    layerID: 93
+    mosaicPosition: {x: 144, y: 140}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 7
+    spriteName: Bildruta 7
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7195dfb71ff85e4419be861efe851786
+    layerID: 92
+    mosaicPosition: {x: 214, y: 140}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 6
+    spriteName: Bildruta 6
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7338c706634da3b41916f64f13cc01e8
+    layerID: 91
+    mosaicPosition: {x: 284, y: 140}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 5
+    spriteName: Bildruta 5
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 056944607c00aec47a3cb219616ee8a9
+    layerID: 90
+    mosaicPosition: {x: 354, y: 140}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 4
+    spriteName: Bildruta 4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 79bd9290f566fb0458643f0a54238642
+    layerID: 89
+    mosaicPosition: {x: 424, y: 140}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 3
+    spriteName: Bildruta 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ea8030fdfd29239439e421df89b6aeb5
+    layerID: 88
+    mosaicPosition: {x: 4, y: 208}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 2
+    spriteName: Bildruta 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fad75728146d0b5449a0e9dcf705980e
+    layerID: 87
+    mosaicPosition: {x: 74, y: 208}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 1
+    spriteName: Bildruta 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d38acbe5a3083ee428635d8995f078fa
+    layerID: 86
+    mosaicPosition: {x: 144, y: 208}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  rigPSDLayers:
+  - name: Bildruta 24
+    spriteName: Bildruta 24
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3185eb84c1d81104181d862921b5aa1c
+    layerID: 109
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 23
+    spriteName: Bildruta 23
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 21138b5ef8fd9834890fc5ecbcef4c49
+    layerID: 108
+    mosaicPosition: {x: 74, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 22
+    spriteName: Bildruta 22
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 91f51fedd75f7e9458253a56e757c3d3
+    layerID: 107
+    mosaicPosition: {x: 144, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 21
+    spriteName: Bildruta 21
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 532ab7785ad33144b84783d0514437f2
+    layerID: 106
+    mosaicPosition: {x: 214, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 20
+    spriteName: Bildruta 20
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fc08479755731924693bef611cfcb50f
+    layerID: 105
+    mosaicPosition: {x: 284, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 19
+    spriteName: Bildruta 19
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d907ccb97dca8f64fa3bceff17a37791
+    layerID: 104
+    mosaicPosition: {x: 354, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 18
+    spriteName: Bildruta 18
+    isGroup: 0
+    parentIndex: -1
+    spriteID: daf54ef8859144c49bd9461db9468c1c
+    layerID: 103
+    mosaicPosition: {x: 424, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 17
+    spriteName: Bildruta 17
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 78787d1fdcc33c84ca643ac05ed221f6
+    layerID: 102
+    mosaicPosition: {x: 4, y: 72}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 16
+    spriteName: Bildruta 16
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 27e2229af7bc6314c978dd59fa8b79e1
+    layerID: 101
+    mosaicPosition: {x: 74, y: 72}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 15
+    spriteName: Bildruta 15
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ed406c49a56e579458e75d758f7b348c
+    layerID: 100
+    mosaicPosition: {x: 144, y: 72}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 14
+    spriteName: Bildruta 14
+    isGroup: 0
+    parentIndex: -1
+    spriteID: db89eed8f82c57343b65fefd936a3f65
+    layerID: 99
+    mosaicPosition: {x: 214, y: 72}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 13
+    spriteName: Bildruta 13
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8eeb64f52abec2f48a65216a3ceb1ca2
+    layerID: 98
+    mosaicPosition: {x: 284, y: 72}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 12
+    spriteName: Bildruta 12
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 96e776ad77413934dbf05ac8e1ecafd6
+    layerID: 97
+    mosaicPosition: {x: 354, y: 72}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 11
+    spriteName: Bildruta 11
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f1630c797bb066f49bea35b2290feec3
+    layerID: 96
+    mosaicPosition: {x: 424, y: 72}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 10
+    spriteName: Bildruta 10
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 62f58b30492c6a64baa466b6bf0eabc4
+    layerID: 95
+    mosaicPosition: {x: 4, y: 140}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 9
+    spriteName: Bildruta 9
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4539f12ad86939344881c4ac7b0548eb
+    layerID: 94
+    mosaicPosition: {x: 74, y: 140}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 8
+    spriteName: Bildruta 8
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 598402a9c80aaa04b8578a84382539be
+    layerID: 93
+    mosaicPosition: {x: 144, y: 140}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 7
+    spriteName: Bildruta 7
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 76ee6cc982085534d925abb70742cec6
+    layerID: 92
+    mosaicPosition: {x: 214, y: 140}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 6
+    spriteName: Bildruta 6
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e98553627483bf84fa4a2fab7e2b159c
+    layerID: 91
+    mosaicPosition: {x: 284, y: 140}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 5
+    spriteName: Bildruta 5
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 03d82f6b1addc0541a9cb994deb18b91
+    layerID: 90
+    mosaicPosition: {x: 354, y: 140}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 4
+    spriteName: Bildruta 4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e10a78e317c27b94a9e649784dbbcf67
+    layerID: 89
+    mosaicPosition: {x: 424, y: 140}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 3
+    spriteName: Bildruta 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e0646f64ec744ee4285fba1dbc094dd5
+    layerID: 88
+    mosaicPosition: {x: 4, y: 208}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 2
+    spriteName: Bildruta 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 724f43ec318e77c4c8f51c101724b7cc
+    layerID: 87
+    mosaicPosition: {x: 74, y: 208}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bildruta 1
+    spriteName: Bildruta 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9df43516a83f9954f80de1a7d47efe8f
+    layerID: 86
+    mosaicPosition: {x: 144, y: 208}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
