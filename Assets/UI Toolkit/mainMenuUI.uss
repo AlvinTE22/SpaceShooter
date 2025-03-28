@@ -29,3 +29,6 @@
 
 .main-menu__button--start {
 }
+
+.main-menu__button--quit {
+}
