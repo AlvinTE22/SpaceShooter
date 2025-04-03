@@ -11,6 +11,5 @@ public class EnemyMovementRandomHorizontal : EnemyMovement
         base.OnStart();
         horizontalSpeed = Random.Range(-1f, 1f);
         rigidBody.velocity = new Vector2(horizontalSpeed, rigidBody.velocity.y);
-        print("start from enemyrandomhorizontal");
     }
 }
