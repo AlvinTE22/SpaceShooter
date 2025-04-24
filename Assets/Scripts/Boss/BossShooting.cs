@@ -6,7 +6,7 @@ public class BossShooting : MonoBehaviour
 {
 
     [SerializeField] float fireRate = 2f;
-    [SerializeField] GameObject bossBackLeftProjectilePrefab;
+    [SerializeField] GameObject bossProjectilePrefab;
 
     float timeToShoot = 0f;
 
@@ -19,7 +19,7 @@ public class BossShooting : MonoBehaviour
     {
         if (Time.time > timeToShoot)
         {
-            Instantiate(bossBackLeftProjectilePrefab, transform.position, Quaternion.identity);
+            Instantiate(bossProjectilePrefab, transform.position, Quaternion.identity);
             timeToShoot = Time.time + fireRate;
         }
     }

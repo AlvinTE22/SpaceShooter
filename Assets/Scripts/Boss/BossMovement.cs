@@ -26,9 +26,13 @@ public class BossMovement : MonoBehaviour
         {
             rigidBody.velocity = new Vector2(-3f, rigidBody.velocity.y);
         }
-        else
+        else if (player.transform.position.x > transform.position.x)
         {
             rigidBody.velocity = new Vector2(3f, rigidBody.velocity.y);
+        }
+        else
+        {
+            rigidBody.velocity = new Vector2(0f, rigidBody.velocity.y);
         }
     }
 }
