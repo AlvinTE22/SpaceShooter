@@ -12,7 +12,7 @@ public class BossSpawner : MonoBehaviour
 
     void Update()
     {
-        if (Time.time > timeToSpawn && Time.time !< 30f)
+        if (Time.time > timeToSpawn && Time.time > 30f)
         {
             Instantiate(bossPrefab, transform.position, Quaternion.identity);
             timeToSpawn = Time.time + spawnDelay;
