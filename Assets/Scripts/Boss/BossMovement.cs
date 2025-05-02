@@ -32,7 +32,7 @@ public class BossMovement : MonoBehaviour
         }
         else
         {
-            rigidBody.velocity = new Vector2(0f, rigidBody.velocity.y);
+            //rigidBody.velocity = new Vector2(0f, rigidBody.velocity.y);
         }
     }
 }
