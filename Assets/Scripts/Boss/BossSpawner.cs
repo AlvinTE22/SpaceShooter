@@ -10,6 +10,11 @@ public class BossSpawner : MonoBehaviour
 
     float timeToSpawn = 0f;
 
+    private void Start()
+    {
+        timeToSpawn = 0f;
+    }
+
     void Update()
     {
         if (Time.time > timeToSpawn && Time.time > 30f)
